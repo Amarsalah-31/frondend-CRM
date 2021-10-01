@@ -1,0 +1,24 @@
+.navbar-container {
+    height: 5rem;
+    background-color: #08162a;
+}
+
+.navbar-text {
+    text-decoration: none;
+    color: #d9e2e5;
+    margin: 0rem 3rem 0rem 5rem;
+}
+
+.flexbox-navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.flex-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 5rem;
+}

@@ -1,0 +1,14 @@
+html {
+    background-color: rgb(226, 226, 224);
+}
+
+.admin-container {
+    display: flex;
+}
+
+.info-container {
+    flex: 2;
+    height: 100vh;
+    margin: 1rem;
+    background-color: white;
+}
